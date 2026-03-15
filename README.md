@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="banner.png" alt="t9sy Banner" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);"/>
-
 <img src="pfp.png" alt="Profile Avatar" width="150" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(169, 112, 255, 0.4); margin-bottom: 15px;" />
 
-<h1>Hi there, I'm t9sy</h1>
+<h1>Hi, I'm t9sy</h1>
+
+<img width="100%" src="banner.png" alt="t9sy Banner" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=514af0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;AI+Enthusiast;Web+Designer)](https://t9sy.de/contact)
 </div>
