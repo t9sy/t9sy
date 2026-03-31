@@ -52,7 +52,7 @@
 
 <table align="center" style="border-collapse: collapse; border: none; background-color: transparent;">
 <tr>
-<td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
+<td width="33%" align="center" valign="top" style="border: none; padding: 10px;">
 
 <h3>serika.app</h3>
 <p>A highly privacy-focused search engine.</p>
@@ -68,7 +68,7 @@
 </p>
 
 </td>
-<td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
+<td width="33%" align="center" valign="top" style="border: none; padding: 10px;">
 
 <h3>serika.chat</h3>
 <p>A privacy-focused Discord alternative (In Development).</p>
@@ -84,7 +84,7 @@
 </p>
 
 </td>
-<td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
+<td width="33%" align="center" valign="top" style="border: none; padding: 10px;">
 
 <h3>Aether</h3>
 <p>A privacy-focused Browser (In Development).</p>
