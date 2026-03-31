@@ -90,7 +90,7 @@
 <p>A privacy-focused Browser (In Development).</p>
 
 <p align="center">
-  <a href="https://aether.strayx.xyz">
+  <a href="https://aether.t9sy.de">
     <img src="https://img.shields.io/badge/Watch-Status-514af0?style=for-the-badge&logo=react&logoColor=white&labelColor=black"/>
   </a>
 </p>
