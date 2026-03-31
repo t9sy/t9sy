@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://serika.app">
-    <img src="https://img.shields.io/badge/Visit-serika.app-514af0?style=for-the-badge&logo=react&logoColor=black&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Visit-serika.app-514af0?style=for-the-badge&logo=react&logoColor=white&labelColor=black"/>
   </a>
 </p>
 
@@ -75,12 +75,28 @@
 
 <p align="center">
   <a href="https://serika.pro">
-    <img src="https://img.shields.io/badge/Watch-Status-514af0?style=for-the-badge&logo=react&logoColor=black&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Watch-Status-514af0?style=for-the-badge&logo=react&logoColor=white&labelColor=black"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,bun,docker,js&theme=dark" width="180" style="border-radius: 10px;"/>
+</p>
+
+</td>
+<td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
+
+<h3>Aether</h3>
+<p>A privacy-focused Browser (In Development).</p>
+
+<p align="center">
+  <a href="https://aether.strayx.xyz">
+    <img src="https://img.shields.io/badge/Watch-Status-514af0?style=for-the-badge&logo=react&logoColor=white&labelColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,bun,react,electron,tailwind,webpack,js&theme=dark" width="180" style="border-radius: 10px;"/>
 </p>
 
 </td>
