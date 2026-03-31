@@ -6,7 +6,7 @@
 
 <img width="100%" src="img/banner.png" alt="t9sy Banner" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=514af0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;AI+Enthusiast;Web+Designer)](https://t9sy.de/contact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=514af0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Located+in+Czechia;AI+Enthusiast;Web+Designer)](https://t9sy.de/contact)
 </div>
 <div align="center">
 
